@@ -1,19 +1,9 @@
-# Armored Combat Framework
+# Armored Combat Framework - Advanced
 > A standardized combat and damage addon for Garry's Mod
 
-[![Discord Invite](https://img.shields.io/discord/654142834030542878?label=Chat&style=flat-square)](https://discord.gg/jgdzysxjST)
-[![Steam Group](https://img.shields.io/badge/ACF%20Official-Join%20Now!-informational?style=flat-square)](https://steamcommunity.com/groups/officialacf)
-[![Linting Status](https://img.shields.io/github/actions/workflow/status/ACF-Team/ACF-3/GLuaLint.yml?branch=master&label=Linter%20Status&style=flat-square)](https://github.com/ACF-Team/ACF-3/actions?query=workflow%3AGLuaLint)
-[![Test Suite](https://img.shields.io/github/actions/workflow/status/ACF-Team/ACF-3/gluatest.yml?branch=master&label=Test%20Suite&style=flat-square)](https://github.com/CFC-Servers/GLuaTest)
-[![Repository Size](https://img.shields.io/github/repo-size/ACF-Team/ACF-3?label=Repository%20Size&style=flat-square)](https://github.com/ACF-Team/ACF-3)
-[![Commit Activity](https://img.shields.io/github/commit-activity/m/ACF-Team/ACF-3?label=Commit%20Activity&style=flat-square)](https://github.com/ACF-Team/ACF-3/graphs/commit-activity)
+Armored Combat Framework (ACF) Advanced is an addon for Garry's Mod that takes the idea of ACF 3 and implements full heat cycle and pressure dynamics for engines, 
 
-Armored Combat Framework (ACF) is an addon for Garry's Mod that implements a damage system for props and players, while also providing entities and tools to build fairly realistic armored combat vehicles. Players may choose from an array of guns, ammo types, crates for fuel and ammo, engines, transmissions and more while armoring their contraptions for combat.
-
-Ammunition is customizable with varying ballistic performance along with armor being customizable for protection against various threats. ACF is intended to be balanced for multiplayer and competitive use but there is, of course, nothing wrong with blasting some NPCs.
-
-![ACF Logo](acf-logo-dark.png#gh-light-mode-only)
-![ACF Logo](acf-logo-light.png#gh-dark-mode-only)
+This is very alpha stage, so there will be bugs there will be weird things, as well as incorrect values, balance will be investigated once core systems are implemented.
 
 ## Installation
 
@@ -39,6 +29,3 @@ Install a Git client, such as the [Github client](https://desktop.github.com/) o
 3. Inside you will find another ACF folder.
 4. Move the inner ACF folder to `garrysmod/garrysmod/addons`
 
-## Contributing
-
-Found an annoying bug in the addon? Want to suggest a brand new feature? Think something should be changed? Make sure to check out [Contributing to ACF](CONTRIBUTING.md), where we have a full guide on how to properly contribute to this project.
